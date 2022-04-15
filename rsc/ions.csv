@@ -1,0 +1,582 @@
+D-,Deuterium atom anion,-1
+D+,Deuterium atom cation,1
+H-,Hydrogen atom anion,-1
+H+,Hydrogen atom cation,1
+H2-,hydrogen diatomic anion,-1
+H2+,Hydrogen cation,1
+H3+,hydrogen trimer cation,1
+He-,Helium atom anion,-1
+He+,Helium atom cation,1
+HeH+,Helium hydride cation,1
+He2+,helium diatomic cation,1
+Li-,Lithium atom anion,-1
+Li+,Lithium atom cation,1
+Na-,Sodium atom anion,-1
+Na+,Sodium atom cation,1
+K-,Potassium atom anion,-1
+K+,Potassium atom cation,1
+Cu-,Copper atom anion,-1
+Cu+,Copper atom cation,1
+LiH-,lithium hydride anion,-1
+LiH+,lithium hydride cation,1
+NaH-,sodium hydride anion,-1
+NaH+,sodium hydride cation,1
+KH+,Potassium hydrogen cation,1
+Be-,Beryllium atom anion,-1
+Be+,Beryllium atom cation,1
+Mg-,Magnesium atom anion,-1
+Mg+,Magnesium atom cation,1
+Ca-,Calcium atom anion,-1
+Ca+,Calcium atom cation,1
+Zn-,Zinc atom anion,-1
+Zn+,Zinc atom cation,1
+BeH-,berylium monohydride anion,-1
+BeH+,beryllium monohydride cation,1
+MgH-,magnesium monohydride anion,-1
+MgH+,magnesium monohydride cation,1
+CaH+,Calcium monohydride cation,1
+ZnH+,"Zinc, protonated",1
+BeH2+,Beryllium dihydride cation,1
+B-,Boron atom anion,-1
+B+,Boron atom cation,1
+Al-,Aluminum atom anion,-1
+Al+,Aluminum atom cation,1
+Sc+,Scandium cation,1
+Ga-,Gallium atom anion,-1
+Ga+,Gallium atom cation,1
+BH-,boron monohydride anion,-1
+BH+,boron monohydride cation,1
+AlH-,aluminum monohydride anion,-1
+AlH+,aluminum monohydride cation,1
+ScH+,Scandium monohydride cation,1
+GaH+,Gallium monohydride cation,1
+BH2-,boron dihydride anion,-1
+BH2+,Boron dihydride cation,1
+AlH2-,aluminum dihydride anion,-1
+AlH2+,aluminum dihydride cation,1
+BH3-,boron trihydride anion,-1
+BH3+,boron trihydride cation,1
+AlH3-,aluminum trihydride anion,-1
+AlH3+,aluminum trihydride cation,1
+BH4-,borohydride anion,-1
+AlH4-,Aluminum tetrahydride anion,-1
+C-,Carbon atom anion,-1
+C+,Carbon atom cation,1
+Si-,Silicon atom anion,-1
+Si+,Silicon atom cation,1
+Ti-,Titanium atom anion,-1
+Ti+,Titanium atom cation,1
+Ge-,Germanium anion,-1
+Ge+,Germanium cation,1
+CH-,methylidyne anion,-1
+CH+,Methylidyne cation,1
+SiH-,silicon monohydride anion,-1
+SiH+,silicon monohydride cation,1
+GeH+,Germaniun monohyrdide cation,1
+CH2-,methylene anion,-1
+CH2+,methylene cation,1
+SiH2-,silicon dihydride anion,-1
+SiH2+,silicon dihydride cation,1
+GeH2-,germylene anion,-1
+CH3-,methyl anion,-1
+CH3+,methyl cation,1
+SiH3-,Silyl anion,-1
+SiH3+,Silyl cation,1
+GeH3+,germyl cation,1
+CH4-,Methane anion,-1
+CH4+,Methane cation,1
+SiH4+,Silane cation,1
+SiH5+,"Silane, protonated",1
+N-,Nitrogen atom anion,-1
+N+,Nitrogen atom cation,1
+P-,Phosphorus atom anion,-1
+P+,Phosphorus atom cation,1
+V+,Vanadium atom cation,1
+As-,Arsenic anion,-1
+As+,Arsenic cation,1
+NH-,Imidogen anion,-1
+NH+,imidogen cation,1
+PH-,phosphorus monohydride anion,-1
+PH+,phosphorus monohydride cation,1
+AsH+,Arsenic monohydride cation,1
+NH2-,amino anion,-1
+NH2+,Amino cation,1
+PH2-,Phosphino anion,-1
+PH2+,Phosphino cation,1
+AsH2+,Arsenic dihydride cation,1
+NH3-,Ammonia anion,-1
+NH3+,ammonia cation,1
+PH3+,Phosphine cation,1
+AsH3+,Arsine cation,1
+NH4+,ammonium cation,1
+PH4+,phosphonium cation,1
+O-,Oxygen atom anion,-1
+O+,Oxygen atom cation,1
+S-,Sulfur atom anion,-1
+S+,Sulfur atom cation,1
+Se-,Selenium atom anion,-1
+Se+,Selenium atom cation,1
+OH-,hydroxide anion,-1
+OH+,hydoxyl cation,1
+HS-,mercapto anion,-1
+HS+,sulfur monohydride cation,1
+CrH+,Chromium hydride cation,1
+HSe-,selenium monohydride anion,-1
+HSe+,selenium monohydride cation,1
+H2O-,water anion,-1
+H2O+,water cation,1
+H2S-,Hydrogen sulfide anion,-1
+H2S+,Hydrogen sulfide cation,1
+H2Se+,Hydrogen selenide cation,1
+H3O+,hydronium cation,1
+H3S+,Sulfonium cation,1
+H3Se+,"Hydrogen Selenide, protonated",1
+F-,Fluorine atom anion,-1
+F+,Fluorine atom cation,1
+Cl-,Chlorine atom anion,-1
+Cl+,Chlorine atom cation,1
+Br-,Bromine atom anion,-1
+Br+,Bromine atom cation,1
+I-,Iodine atom anion,-1
+I+,Iodine atom cation,1
+HF-,hydrogen fluoride anion,-1
+HF+,hydrogen fluoride cation,1
+HCl-,hydrogen chloride anion,-1
+HCl+,hydrogen chloride cation,1
+HBr-,hydrogen bromide anion,-1
+HBr+,hydrogen bromide cation,1
+HI+,Hydrogen iodide cation,1
+H2F+,dihydrogen fluoride cation,1
+H2Cl+,dihydrogen monochloride cation,1
+H2Br+,protonated hydrogen bromide,1
+H2I+,Iodonium,1
+Ne-,Neon atom anion,-1
+Ne+,Neon atom cation,1
+Ar-,Argon atom anion,-1
+Ar+,Argon atom cation,1
+Kr+,Krypton cation,1
+HeLi+,Helium Lithium cation,1
+NeH+,neon hydrogen cation,1
+ArH+,Argon hydride cation,1
+KrH+,Protonated Krypton,1
+XeH+,"Xenon, protonated",1
+Li2-,lithium diatomic anion,-1
+Li2+,lithium diatomic cation,1
+NaLi-,lithium sodium anion,-1
+NaLi+,lithium sodium cation,1
+Na2-,sodium diatomic anion,-1
+Na2+,sodium diatomic cation,1
+NaK+,Sodium Potassium diatomic cation,1
+Be2-,Beryllium diatomic anion,-1
+Be2+,Beryllium diatomic cation,1
+Mg2-,magnesium diatomic anion,-1
+Mg2+,magnesium diatomic cation,1
+B2-,Boron diatomic anion,-1
+B2+,Boron diatomic cation,1
+Al2-,aluminum diatomic anion,-1
+Al2+,aluminum diatomic cation,1
+B2H6+,Diborane cation,1
+BC-,boron monocarbide anion,-1
+BC+,boron monocarbide cation,1
+C2-,carbon diatomic anion,-1
+C2+,carbon diatomic cation,1
+SiC-,silicon monocarbide anion,-1
+SiC+,silicon monocarbide cation,1
+Si2-,silcon diatomic anion,-1
+Si2+,silcon diatomic cation,1
+C2H-,Ethynyl anion,-1
+C2H+,Ethynyl cation,1
+C2H2+,acetylene cation,1
+H2CC-,vinylidene anion,-1
+HCCH-,acetylene anion,-1
+C2H3-,vinyl anion,-1
+C2H3+,vinyl cation,1
+C2H4-,Ethylene anion,-1
+C2H4+,Ethylene cation,1
+C2H5-,Ethyl anion,-1
+C2H5+,Ethyl cation,1
+C2H6+,ethane cation,1
+C2H7+,"Ethane, protonated",1
+LiN+,Lithium Nitride cation,1
+BeN-,Beryllium mononitride anion,-1
+BeN+,Beryllium mononitride cation,1
+BN-,boron nitride anion,-1
+AlN-,aluminum mononitride anion,-1
+AlN+,aluminum mononitride cation,1
+BN+,boron nitride cation,1
+CN-,cyanide anion,-1
+CN+,Cyano cation,1
+CP-,carbon monophosphide anion,-1
+CP+,carbon monophosphide cation,1
+SiN-,silicon mononitride anion,-1
+SiN+,silicon mononitride cation,1
+SiP-,Silicon monophosphide anion,-1
+SiP+,Silicon monophosphide cation,1
+N2-,nitrogen diatomic anion,-1
+N2+,diatomic nitrogen cation,1
+PN-,phosphorus nitride anion,-1
+PN+,phosphorus nitride cation,1
+P2-,phosphorus diatomic anion,-1
+P2+,phosphorus diatomic cation,1
+HCN-,Hydrogen cyanide anion,-1
+HCN+,hydrogen cyanide cation,1
+HNC+,hydrogen isocyanide cation,1
+NNH+,Dinitrogen monohydride cation,1
+HPO+,HPO cation,1
+CNH2+,CNH2+,1
+H2CN+,hydrocyanonium cation,1
+HCNH+,HCNH+,1
+N2H2+,trans-diazine cation,1
+CH2NH+,Methanimine cation,1
+CHNH2+,Aminocarbene cation,1
+CH2NH2+,methyleneamine cation,1
+N2H4+,hydrazine cation,1
+CH3NH2+,methyl amine cation,1
+N2H5+,protonated hydrazine,1
+CH3NH3+,protonated methylamine,1
+CH3PH3+,"methyl phosphine, protonated",1
+N2H7+,ammonia ammonium dimer,1
+LiO-,lithium oxide anion,-1
+LiO+,lithium oxide cation,1
+LiS+,Lithium sulfide cation,1
+NaO-,sodium oxide anion,-1
+NaO+,sodium oxide cation,1
+KO+,Potassium monoxide cation,1
+BeO-,Beryllium monoxide anion,-1
+BeO+,Beryllium monoxide cation,1
+MgO-,magnesium oxide anion,-1
+MgO+,magnesium oxide cation,1
+MgS-,magnesium sulfide anion,-1
+MgS+,magnesium sulfide cation,1
+BeS-,Beryllium monosulfide anion,-1
+BeS+,Beryllium monosulfide cation,1
+BO-,boron monoxide anion,-1
+AlO-,Aluminum monoxide anion,-1
+AlO+,aluminum monoxide cation,1
+BS-,boron monosulfide anion,-1
+BS+,boron monosulfide cation,1
+AlS-,aluminum monosulfide anion,-1
+AlS+,aluminum monosulfide cation,1
+BO+,boron monoxide cation,1
+CO-,carbon monoxide anion,-1
+CO+,carbon monoxide cation,1
+CS-,carbon monosulfide anion,-1
+CS+,carbon monosulfide cation,1
+SiO-,silicon monoxide anion,-1
+SiO+,silicon monoxide cation,1
+SiS-,silicon monosulfide anion,-1
+SiS+,silicon monosulfide cation,1
+CSe-,Carbon monoselenide anion,-1
+CSe+,Carbon monoselenide cation,1
+GeO+,Germanium monoxide cation,1
+SiSe+,Silicon Monoselenide cation,1
+NO-,nitric oxide anion,-1
+NO+,nitric oxide cation,1
+NS-,nitrogen sulfide anion,-1
+NS+,nitrogen sulfide cation,1
+PO-,phosphorus monoxide anion,-1
+PO+,phosphorus monoxide cation,1
+PS-,phosphorus monosulfide anion,-1
+PS+,phosphorus monosulfide cation,1
+O2-,oxygen diatomic anion,-1
+O2+,diatomic oxygen cation,1
+SO-,sulfur monoxide anion,-1
+SO+,sulfur monoxide cation,1
+S2-,sulfur diatomic anion,-1
+S2+,sulfur diatomic cation,1
+SeO-,selenium monoxide anion,-1
+SeO+,selenium monoxide cation,1
+SeS-,selenium monosulfide anion,-1
+SeS+,selenium monosulfide cation,1
+Se2-,selenium diatomic anion,-1
+Se2+,selenium diatomic cation,1
+COH+,"Carbon Monoxide, protonated",1
+HCO-,formyl anion,-1
+HCO+,Formyl cation,1
+HCS-,Thioformyl anion,-1
+HCS+,Thioformyl cation,1
+HNO-,Nitrosyl hydride anion,-1
+HNO+,Nitrosyl hydride cation,1
+NOH+,nitric oxide O-protonated,1
+HNS-,HNS-,-1
+HO2-,Hydroperoxy anion,-1
+HO2+,Hydroperoxy cation,1
+HSO+,"Sulfur Monoxide, S-protonated",1
+SOH+,"Sulfur Monoxide, protonated",1
+KOH2+,"Potassium hydroxide, protonated",1
+H2CO-,formaldehyde anion,-1
+H2CO+,formaldehyde cation,1
+H2CS-,thioformaldehyde anion,-1
+H2CS+,thioformaldehyde cation,1
+H2O2+,Hydrogen peroxide cation,1
+H2S2+,hydrogen disulfide cation,1
+CH2OH+,hydroxymethyl cation,1
+CH3O-,methoxy anion,-1
+CH3O+,Methoxy cation,1
+H2CSH+,"Thioformaldehyde, protonated",1
+NH2OH+,Hydroxylamine cation,1
+H3O2+,"hydrogen peroxide, protonated",1
+CH3OH-,Methyl alcohol anion,-1
+CH3OH+,Methyl alcohol cation,1
+CH3SH+,Methanethiol cation,1
+NH2OH2+,protonated hydroxylamine,1
+NH3OH+,N-protonated hydroxylamine,1
+CH3OH2+,"Methanol, protonated",1
+CH3SH2+,protonated methylsulfide,1
+H5O2+,Dihydroxonium ion,1
+LiCl-,lithium chloride anion,-1
+LiCl+,lithium chloride cation,1
+NaF-,sodium fluoride anion,-1
+NaF+,sodium fluoride cation,1
+NaCl-,sodium chloride anion,-1
+NaCl+,sodium chloride cation,1
+LiBr-,lithium bromide anion,-1
+LiBr+,lithium bromide cation,1
+NaBr-,sodium bromide anion,-1
+NaBr+,sodium bromide cation,1
+LiF-,lithium fluoride anion,-1
+LiF+,lithium fluoride cation,1
+BeF-,Beryllium monofluoride anion,-1
+BeF+,Beryllium monofluoride cation,1
+MgF-,magnesium fluoride anion,-1
+MgF+,magnesium fluoride cation,1
+MgCl-,magnesium monochloride anion,-1
+MgCl+,magnesium monochloride cation,1
+ZnF-,Zinc monofluoride anion,-1
+ZnF+,Zinc monofluoride cation,1
+BeCl-,beryllium monochloride anion,-1
+BeCl+,beryllium monochloride cation,1
+BF-,Boron monofluoride anion,-1
+BF+,Boron monofluoride cation,1
+AlF-,Aluminum monofluoride anion,-1
+AlF+,Aluminum monofluoride cation,1
+BCl-,boron monochloride anion,-1
+BCl+,boron monochloride cation,1
+AlCl-,aluminum monochloride anion,-1
+AlCl+,aluminum monochloride cation,1
+GaF+,Gallium monofluoride cation,1
+GaCl+,Gallium monochloride cation,1
+CF-,carbon monofluoride anion,-1
+CF+,carbon monofluoride cation,1
+CCl-,carbon monochloride anion,-1
+CCl+,carbon monochloride cation,1
+SiF-,silicon monofluoride anion,-1
+SiF+,silicon monofluoride cation,1
+SiCl-,silicon monochloride anion,-1
+SiCl+,silicon monochloride cation,1
+GeF+,Germanium monofluoride cation,1
+GeCl+,Germanium monochloride cation,1
+SiBr+,Silicon monobromide cation,1
+NF-,nitrogen monofluorine anion,-1
+NF+,nitrogen monofluoirde cation,1
+NCl-,nitrogen monochloride anion,-1
+NCl+,nitrogen monochloride cation,1
+PF-,phosphorus monofluoride anion,-1
+PF+,phosphorus monofluoride cation,1
+PCl-,phosphorus monochloride anion,-1
+PCl+,phosphorus monochloride cation,1
+FO-,flourine oxide anion,-1
+FO+,fluorine monoxide cation,1
+ClO-,chlorine monoxide anion,-1
+ClO+,chlorine monoxide cation,1
+SF-,sulfur monofluoride anion,-1
+SF+,sulfur monofluoride cation,1
+SCl-,sulfur monochloride anion,-1
+SCl+,sulfur monochloride cation,1
+BrO-,Bromine monoxide anion,-1
+F2-,flourine diatomic anion,-1
+F2+,flourine diatomic cation,1
+ClF-,clorine monofluoride anion,-1
+ClF+,clorine monofluoride cation,1
+Cl2-,chlorine diatomic anion,-1
+Cl2+,chlorine diatomic cation,1
+BrF-,bromine fluoride anion,-1
+BrF+,bromine fluoride cation,1
+BrCl-,bromine chloride anion,-1
+BrCl+,bromine chloride cation,1
+Br2-,bromine diatomic anion,-1
+Br2+,bromine diatomic cation,1
+I2+,Iodine diatomic cation,1
+HOCl+,hypochlorous acid cation,1
+HOBr+,Hypobromous acid cation,1
+F2H+,"Fluorine, protonated",1
+FHF-,FHF-,-1
+ClFH+,"Chlorine fluoride, F-protonated",1
+FClH+,"Chlorine fluoride, Cl-protonated",1
+Cl2H+,"Chlorine, protonated",1
+CH2F+,fluoromethyl cation,1
+CH2Cl+,chloromethyl cation,1
+CH3F+,methyl fluoride cation,1
+CH3Cl+,Methyl chloride cation,1
+CH3ClH+,"methyl chloride, protonated",1
+LiNe+,Lithium Neon cation,1
+Ne2+,Neon diatomic cation,1
+Ar2+,Argon diatomic cation,1
+Li3+,Lithium trimer cation,1
+C3+,carbon trimer cation,1
+C3H3-,Propargyl anion,-1
+C3H3+,cyclopropenyl cation,1
+C3H3+,Propargyl cation,1
+C3H5+,Allyl cation,1
+C3H7+,"cyclopropane, protonated",1
+C3H7+,n-propyl cation,1
+CH3CHCH3+,Isopropyl cation,1
+N3-,azide anion,-1
+N3+,azide cation,1
+HN3+,Hydrazoic acid cation,1
+CH3CN-,acetonitrile anion,-1
+CH3CN+,Acetonitrile cation,1
+HCNCH2+,2H-Azirine cation,1
+HNCNH2+,"diiminomethane, protonated",1
+NCNH3+,"Cyanamide, protonated",1
+NH2CNH+,"cyanamide, cn protonated",1
+NH3CN+,"cyanamide, amine protonated",1
+C2H5NH+,Protonated Aziridine,1
+C2H6N+,"aziridine, protonated",1
+NH2CH2NH3+,"diaminoethane, protonated",1
+(CH3)2NH2+,dimethylammonium cation,1
+CH3CH2NH3+,"ethylamine, protonated",1
+Li2O+,dilithium oxide cation,1
+CNO-,fulminate,-1
+NCO-,cyanate,-1
+SCN-,thiocyanide anion,-1
+BO2-,Boron dioxide anion,-1
+BO2+,Boron dioxide cation,1
+N2O-,Nitrous oxide anion,-1
+N2O+,Nitrous oxide cation,1
+CO2-,Carbon dioxide anion,-1
+CO2+,Carbon dioxide cation,1
+OCS+,Carbonyl sulfide cation,1
+CS2-,Carbon disulfide anion,-1
+CS2+,Carbon disulfide cation,1
+NO2-,Nitrogen dioxide anion,-1
+NO2+,Nitrogen dioxide cation,1
+PO2-,Phosphorus dioxide anion,-1
+PO2+,Phosphorus dioxide cation,1
+O3-,Ozone anion,-1
+O3+,Ozone cation,1
+SO2-,Sulfur dioxide anion,-1
+SO2+,Sulfur dioxide cation,1
+S3-,Sulfur trimer anion,-1
+S3+,Sulfur trimer cation,1
+SeO2+,Selenium dioxide cation,1
+HCO2-,formate anion,-1
+HNNO+,"Nitrous oxide, N-protonated",1
+NNOH+,"Nitrous Oxide, O-protonated",1
+HOCO+,Hydrocarboxyl cation,1
+HNO2+,nitrous acid cation,1
+O3H+,protonated ozone,1
+SO2H+,protonated sulfur dioxide,1
+CH2CO+,Ketene cation,1
+H2COO+,dioxymethyl cation,1
+CH2COH+,"ketene, protonated",1
+CH3CO-,Acetyl anion,-1
+CH3CO+,acetyl cation,1
+CH3OO-,methylperoxy anion,-1
+CH3OO+,methylperoxy cation,1
+C2H4O+,ethylene oxide cation,1
+CH3CHO+,acetaldehyde cation,1
+H2COCH2+,"Methyl, (methyleneoxoniumyl)?-",1
+H2CONH2+,protonated formamide,1
+NH2CHOH+,"Formamide, O-protonated",1
+NH3CHO+,"Formamide, N-Protonated",1
+C2H4OH+,"ethylene oxide, protonated",1
+CH3CHOH+,"acetaldehyde, protonated",1
+CH3SCH3+,dimethyl sulfide cation,1
+FCO+,Carbonyl fluoride cation,1
+CF2-,Difluoromethylene anion,-1
+CF2+,Difluoromethylene cation,1
+SiF2+,Silicon difluoride cation,1
+CCl2-,dichloromethylene anion,-1
+CCl2+,dichloromethylene cation,1
+ClOO+,chloroperoxy cation,1
+OClO-,Chlorine dioxide anion,-1
+OClO+,Chlorine dioxide cation,1
+NF2+,Difluoroamino cation,1
+PF2+,Phosphorus difluoride cation,1
+SF2-,sulfur difluoride anion,-1
+SF2+,sulfur difluoride cation,1
+F3-,trifluoride anion,-1
+Cl3-,trichloride anion,-1
+HCCF+,fluoroacetylene cation,1
+HFCO+,formyl fluoride cation,1
+CHF2+,difluoromethyl cation,1
+CHFCl+,Chlorofluoromethyl cation,1
+CHCl2+,dichloromethyl cation,1
+CH2CHF+,fluoroethene cation,1
+C4+,Carbon tetramer cation,1
+C4H2+,diacetlyene cation,1
+C2N2+,Cyanogen cation,1
+HCCCN+,Cyanoacetylene cation,1
+C3H3N+,acrylonitrile cation,1
+CH3NHN2+,"methyl azide, protonated",1
+CH6N3+,guanidinium,1
+(CH3)3NH+,protonated trimethyl amine,1
+C3H7NH3+,"n-propylamine, protonated",1
+CO3--,carbonate,-2
+CS3--,Carbonotrithioate,-2
+NO3-,nitrate anion,-1
+NO3+,nitrogen trioxide cation,1
+SO3-,Sulfur trioxide anion,-1
+SO3+,Sulfur trioxide cation,1
+HCO3-,bicarbonate anion,-1
+C2H2O2+,Ethanedial cation,1
+H2NO3+,"Nitric Acid, Protonated",1
+CH3COO-,acetate anion,-1
+H3CO3+,"carbonic acid, protonated",1
+NH2CONH2+,Urea cation,1
+NH2COOH2+,"Carbamic acid, O-protonated",1
+NH3COOH+,protonated Carbamic acid,1
+CH5N2O+,"urea, N-protonated",1
+H2NCOHNH2+,"urea, protonated",1
+CH3COCH3-,acetone anion,-1
+CH3COHCH3+,"acetone, protonated",1
+C2Cl2+,dichloroacetylene cation,1
+CF2O+,Carbonic difluoride cation,1
+BF3-,"Borane, trifluoro- anion",-1
+BF3+,boron trifluoride cation,1
+ClO3-,chlorate anion,-1
+CF3-,Trifluoromethyl anion,-1
+CF3+,Trifluoromethyl cation,1
+SiF3+,Silicon trifluoride cation,1
+CCl3-,Trichloromethyl anion,-1
+CCl3+,Trichloromethyl cation,1
+SiCl3+,trichlorosilyl cation,1
+NF3-,Nitrogen trifluoride anion,-1
+NF3+,Nitrogen trifluoride cation,1
+NF3H+,protonated nitrogen trifluoride,1
+AsF3H+,"Arsenic trifluoride, protonated",1
+CH2ClCH2OH2+,"2-chloroethanol, protonated",1
+C3H9O+,trimethyl oxonium cation,1
+C5H5-,cylopentadienyl anion,-1
+C3H3N2-,imidizolyl anion,-1
+C4H4N-,pyrrolide anion,-1
+C4H6N+,"pyrrole, alpha-protonated",1
+C4H6N+,"pyrrole, beta-protonated",1
+C4H6N+,"pyrrole, protonated",1
+NC4H12+,tetramethyl ammonium cation,1
+C3O2+,Carbon suboxide cation,1
+PO4---,phosphate,-3
+SO4--,sulfate,-2
+HSO4-,bisulfate anion,-1
+C4H4O+,Furan cation,1
+C4H10O+,1-Butanol cation,1
+ClO4-,perchlorate anion,-1
+BF4-,tetrafluoroboron anion,-1
+CCl4+,Carbon tetrachloride cation,1
+C2HF3+,Trifluoroethylene cation,1
+C6H5-,phenyl anion,-1
+C6H6+,Benzene cation,1
+C6H7+,"benzene, protonated",1
+C5H6N+,Pyridinium,1
+C2O4--,oxalate anion,-2
+CF3CN+,"Acetonitrile, trifluoro- cation",1
+C2F4+,Tetrafluoroethylene cation,1
+SiF5-,silicon pentafluoride anion,-1
+SF5+,pentafluoro sulfur cation,1
+C7H7+,cycloheptatrienyl cation,1
+CF3COO-,trifluoro acetate anion,-1
+PF6-,Hexafluorophosphate ion,-1
+C4O4--,squarate dianion,-2
+C6N4-,tetracyanoethylene anion,-1
+B12H12--,Dodecahydrododecaborate(2-),-2
